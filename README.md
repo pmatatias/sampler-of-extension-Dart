@@ -1,16 +1,15 @@
 # sampler_of_extension_dart
 
-A new Flutter project.
+a few superb samplers of extension methods | Dart
 
-## Getting Started
+## Find the article on medium :
+ - https://pmatatias.medium.com
 
-This project is a starting point for a Flutter application.
+ ## Contrib
+Do you have an awesome extension method too?
+Want to share your extension method?
+You can open PR to share your method. Its good if you have an example too. 
+Runnable on dartpad or linked any repository.
 
-A few resources to get you started if this is your first Flutter project:
+To contrib to this repository, you can open a PR or Issue. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
