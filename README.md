@@ -8,7 +8,7 @@ a few superb samplers of extension methods | Dart
 
 ### Contrib
 
-Do you have any awesome extension method too?
+Do you have an awesome extension method too?
 Want to share your extension method?
 You can open PR to share your method. Its good if you have an example too.
 Runnable on dartpad or linked any repository.
