@@ -8,6 +8,7 @@ a few superb samplers of extension methods found from many resources like Stacko
 |[Map Sorting][1] |[Map Sorting — Dart extension#1][2]|
 |[Neumorphism][3]|[Neumorphism Widget— Dart extension#2][4]|
 |[Responsive][5]|[Responsive Layout with BuildContext — Dart extension#3][6]|
+|[globalPaintBounds][7]|[globalPaintBounds — Dart extension#4][8]|
 
 
 
