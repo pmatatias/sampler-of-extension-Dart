@@ -27,5 +27,5 @@ To contrib to this repository, you can open a PR or Issue.
 [4]: https://medium.com/easyread/neumorphismwidget-dart-extension-2-3259e650e177
 [5]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/3_Responsive_with_context
 [6]: https://medium.com/@pmatatias/responsive-layout-with-buildcontext-dart-extension-3-145e438fb652
-[7]:
+[7]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/4_absolute_coordinate_widget
 [8]: https://medium.com/easyread/how-to-get-widget-coordinates-in-flutter-ui-dart-extension-4-d59dc15a9e3f
