@@ -11,3 +11,4 @@ Example result:
 - Responsive Grid view:
 
 ![Demo](https://cdn-images-1.medium.com/max/800/0*xK1bHgEXol3g6zti.gif)
+  
