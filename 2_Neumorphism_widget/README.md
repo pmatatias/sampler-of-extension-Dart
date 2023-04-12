@@ -1,5 +1,5 @@
-## Neumorphism Widget
-Update your widget style with modern UI design. Neumorphism is new style using shadow of the widget. full article here: [Neumorphism Widget— Dart extension#2](https://medium.com/easyread/neumorphismwidget-dart-extension-2-3259e650e177)
+## Neumorphism Flutter Widget
+Update your widget style with modern UI design. Neumorphism is new style using shadow of the widget. full article here: [Neumorphism Fultter Widget— Dart extension#2](https://medium.com/easyread/neumorphismwidget-dart-extension-2-3259e650e177)
 
 - Example result:
 
