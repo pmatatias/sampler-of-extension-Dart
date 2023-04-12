@@ -1,7 +1,7 @@
-## Responsive with context
+## Responsive Flutter App with BuildContext
 
 This `extension` is creating a responsive UI on flutter app using `BuildContext`. You can read full article on my medium here:
-[Responsive Layout with BuildContext — Dart extension#3](https://pmatatias.medium.com/responsive-layout-with-buildcontext-dart-extension-3-145e438fb652)
+[Responsive Flutter App with BuildContext — Dart extension#3](https://pmatatias.medium.com/responsive-layout-with-buildcontext-dart-extension-3-145e438fb652)
 
 Example result:
 -  Responsive layout:
