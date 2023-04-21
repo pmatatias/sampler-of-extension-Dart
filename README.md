@@ -31,5 +31,5 @@ To contrib to this repository, you can open a PR or Issue.
 [6]: https://medium.com/@pmatatias/responsive-layout-with-buildcontext-dart-extension-3-145e438fb652
 [7]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/4_absolute_coordinate_widget
 [8]: https://medium.com/easyread/how-to-get-widget-coordinates-in-flutter-ui-dart-extension-4-d59dc15a9e3f
-[9]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/dart_extension_5
+[9]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/5_List_update_single_item
 [10]: https://medium.com/@pmatatias/update-single-item-in-flutter-list-dart-extension-5-6d7ac382c32c
