@@ -10,6 +10,7 @@ a few superb samplers of extension methods found from many resources like Stacko
 |[Responsive][5]|[Responsive Layout with BuildContext — Dart extension#3][6]|
 |[Widget Coordinates][7]|[How to Get Widget Coordinates in Flutter UI — Dart extension#4][8]|
 |[List Update][9]|[Update Single Item in Flutter List — Dart Extension#5][10]|
+|[Describe Timestamp][11]|[Describe Timestamp in Flutter - Dart Extension#6][12]|
 
 
 
@@ -33,3 +34,4 @@ To contrib to this repository, you can open a PR or Issue.
 [8]: https://medium.com/easyread/how-to-get-widget-coordinates-in-flutter-ui-dart-extension-4-d59dc15a9e3f
 [9]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/5_List_update_single_item
 [10]: https://medium.com/@pmatatias/update-single-item-in-flutter-list-dart-extension-5-6d7ac382c32c
+[11]: https://github.com/pmatatias/sampler-of-extension-Dart/tree/main/6_Describe_timestamp
