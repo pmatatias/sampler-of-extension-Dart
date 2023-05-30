@@ -5,7 +5,6 @@
 /// follow me on twitter: @pmataias_
 /// connet with me on Linkedind: /in/pmatatias
 
-
 import 'package:intl/intl.dart';
 void main() {
   final timestamp = DateTime(2023, 5, 22, 16, 23, 32);
@@ -13,15 +12,13 @@ void main() {
   final timestamp3 = DateTime(2023, 5, 30, 16, 23, 32);
   final timestamp4 = DateTime(2023, 5, 30, 23, 23, 32);
   
-  final timenow =  DateFormat.yMd().add_jm().format(DateTime.now())  ;
+  final timenow =  DateFormat.yMd().add_jm().format(DateTime.now());
   
   print("Current Time: $timenow \n");
   print(timestamp.getDifferences());
   print(timestamp2.getDifferences());
   print(timestamp3.getDifferences());
   print(timestamp4.getDifferences());
-
-  
 }
 
 extension DescribeTimeDiff on DateTime {
