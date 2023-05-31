@@ -3,7 +3,7 @@ describe the timestamp based on the current time difference.
 
 For example, in the notification was described like as **17m ago**, or  **4 days ago**. With the `DateTime` class, we'll create a new `extension` method so we can describe the time without additional packages.
 
-Read the article here: 
+Read the article here: [Describing Timestamp in Flutter--DartExtension#6](https://pmatatias.medium.com/describe-timestamp-in-flutter-dart-extension-6-e016ca37e10d)
 
 Run on dartpad: https://dartpad.dev/?id=b213bd69e1d44e2f0263081f9954af6a
 
