@@ -14,5 +14,5 @@ example test:
 example implementation :
 
 <p align="center">
- <img src="https://cdn-images-1.medium.com/max/800/1*VibxtsCkvsfXuXtVjY_8bQ.gif" alt="img prev" height="400px"  title="img prev">
+ <img src="https://cdn-images-1.medium.com/max/800/1*VibxtsCkvsfXuXtVjY_8bQ.gif" alt="img prev"  title="img prev">
 </p>
