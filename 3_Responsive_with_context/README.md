@@ -10,6 +10,7 @@ https://dartpad.dev/?id=925bbdc793dc6b529cb07eb636338ac9
 
 
 ### Example result:
+
 -  Responsive layout:
 
 ![Preview](https://cdn-images-1.medium.com/max/800/0*U2mLWIiFjNy0gYMm.gif)
@@ -18,3 +19,8 @@ https://dartpad.dev/?id=925bbdc793dc6b529cb07eb636338ac9
 
 ![Demo](https://cdn-images-1.medium.com/max/800/0*xK1bHgEXol3g6zti.gif)
   
+- Responsive card:
+
+![Dashboard card](https://miro.medium.com/v2/resize:fit:1400/1*1xfhV4l-bayRpjgS7gOvhQ.gif)
+
+code: https://gist.github.com/pmatatias/be8f84a08f9e2347f20be108ac030484
