@@ -16,6 +16,6 @@ https://dartpad.dev/?id=b213bd69e1d44e2f0263081f9954af6a
 
  -  implementation :
 
-<p align="center">
+<p align="left">
  <img src="https://cdn-images-1.medium.com/max/800/1*VibxtsCkvsfXuXtVjY_8bQ.gif" alt="img prev"  title="img prev">
 </p>
